@@ -11,18 +11,22 @@ Teaching Assistant
 __University of California Riverside__
 PhD in Statistics (In progress)
 
-`2013-2015`
+`2013 - 2015`
 __University of Innsbruck__
 Erasmus Mundus Masters in Astrophysics 
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2016`
+Dean's Distinguished Felowship
+
+`2013-2015`
+Erasmus Mundus Category A Fellowship 
+
 
 ## Publications
 
-<!-- A list is also available [online](https://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+-- A list is also available [online](https://scholar.google.com/citations?user=9JtQBSEAAAAJ) --
 
 ### Journals
 
