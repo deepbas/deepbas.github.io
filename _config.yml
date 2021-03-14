@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Deepak Bastola Website
+title: Welcome!
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Deepak Bastola
   avatar: DSC_5156.JPG
-  bio: "This is a sample academic website."
+  bio: "My academic ramblings"
   email: dbast002@ucr.edu
   # Do not include the @ symbol in your Twitter username
   twitter: aphsansar
